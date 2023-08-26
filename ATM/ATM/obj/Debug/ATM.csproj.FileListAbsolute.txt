@@ -1,0 +1,8 @@
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\obj\Debug\ATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\Vanko Tsibulko\source\repos\ATM\ATM\obj\Debug\ATM.pdb
